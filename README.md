@@ -1,17 +1,22 @@
-<h1>Hi, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-bowens-22875b253">IT Professional</a>☺</h1>
+<h1>Hi, I'm Anthony, an <a href="https://www.linkedin.com/in/anthony-bowens-22875b253">Aspiring IT Support Specialist</a> 👨‍💻</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<p>Welcome to my GitHub portfolio! I'm currently working toward launching my IT career by building hands-on experience through labs and real-world simulations. Below are some of the projects I've completed to showcase my skills and dedication to continuous learning.</p>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+<h2>🛠️ IT Projects & Labs:</h2>
 
-<h2>🤳Connect with me:</h2>
+<ul>
+  <li><b>Microsoft Azure</b>
+    <ul>
+      <li><a href="htt
+    </ul>
+  </li>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2>📬 Connect with Me:</h2>
 
-[linkedin]: https://linkedin.com/in/Josh
+<p>
+  <a href="https://www.linkedin.com/in/anthony-bowens-22875b253">
+    <img align="left" alt="Anthony Bowens | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/anthony-bowens-22875b253">LinkedIn</a>
+</p>
+
