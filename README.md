@@ -7,7 +7,7 @@
 <ul>
   <li><b>Microsoft Azure</b>
     <ul>
-      <li><a href="htt
+      <li> Microsoft Azure VPN setup within VM <a href=
     </ul>
   </li>
 
