@@ -7,7 +7,7 @@
 <ul>
   <li><b>Microsoft Azure</b>
     <ul>
-      <li> Microsoft Azure VPN setup within VM <a href=
+      <li> <a href="https://github.com/antlbowens/VPN-in-Azure"> Microsoft Azure VPN setup within VM 
     </ul>
   </li>
 
