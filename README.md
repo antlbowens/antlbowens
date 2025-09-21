@@ -4,13 +4,10 @@
 
 <h2>🛠️ IT Projects & Labs:</h2>
 
-<ul>
-  <li><b>Microsoft Azure</b>
-    <ul>
-      <li> <a href="https://github.com/antlbowens/VPN-in-Azure"> Microsoft Azure VPN setup within VM 
-    </ul>
-  </li>
-
+- <b>Microsoft Azure</b>
+  - [Microsoft Azure VPN setup within VM](https://github.com/antlbowens/VPN-in-Azure)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket Setup and Install](https://github.com/antlbowens/osTicket-Setup-and-Install)
 <h2>📬 Connect with Me:</h2>
 
 <p>
