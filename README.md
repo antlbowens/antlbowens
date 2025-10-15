@@ -8,6 +8,7 @@
   - [Microsoft Azure VPN setup within VM](https://github.com/antlbowens/VPN-in-Azure)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket Setup and Install](https://github.com/antlbowens/osTicket-Setup-and-Install)
+  - [osTicket Post-Install Setup](https://github.com/antlbowens/osTicket-Post-Install-and-Setup)
 <h2>📬 Connect with Me:</h2>
 
 <p>
